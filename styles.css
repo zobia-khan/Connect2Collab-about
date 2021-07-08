@@ -1,0 +1,29 @@
+nav {
+  border-bottom: 2px solid blue;
+}
+
+.heading-content {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  max-width: 100%;
+}
+
+.Heading-content h1 {
+  letter-spacing: 0.5rem;
+  font-size: 5em;
+  font-weight: bolder;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.background-image {
+  background-image: url("https://ak.picdn.net/shutterstock/videos/1066162897/thumb/1.jpg?ip=x480");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
